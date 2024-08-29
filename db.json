@@ -1,0 +1,62 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "name": "video",
+      "url": "https://th.bing.com/th/id/OIP.yRAeJYYp6kE0zDyp09VkPwAAAA?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/HkvVaj_28C8"
+    },
+    {
+      "id": "2",
+      "name": "movie",
+      "url": "https://th.bing.com/th/id/OIP.yRAeJYYp6kE0zDyp09VkPwAAAA?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/HkvVaj_28C8"
+    },
+    {
+      "id": "3",
+      "name": "movie",
+      "url": "https://th.bing.com/th/id/OIP.yRAeJYYp6kE0zDyp09VkPwAAAA?rs=1&pid=ImgDetMain",
+      "link": "https://www.youtube.com/embed/HkvVaj_28C8"
+    }
+  ],
+  "history": [
+    {
+      "name": "video1",
+      "link": "https://www.youtube.com/embed/HkvVaj_28C8",
+      "timeStamp": "08/21/2024, 03:23:36 PM",
+      "id": 1
+    },
+    {
+      "name": "movie",
+      "link": "https://www.youtube.com/embed/HkvVaj_28C8",
+      "timeStamp": "08/28/2024, 02:17:34 PM",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "react",
+      "allVideos": [
+        {
+          "id": "3",
+          "name": "movie",
+          "url": "https://th.bing.com/th/id/OIP.yRAeJYYp6kE0zDyp09VkPwAAAA?rs=1&pid=ImgDetMain",
+          "link": "https://www.youtube.com/embed/HkvVaj_28C8"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "Movie",
+      "allVideos": [
+        {
+          "id": "2",
+          "name": "movie",
+          "url": "https://th.bing.com/th/id/OIP.yRAeJYYp6kE0zDyp09VkPwAAAA?rs=1&pid=ImgDetMain",
+          "link": "https://www.youtube.com/embed/HkvVaj_28C8"
+        }
+      ]
+    }
+  ]
+}
